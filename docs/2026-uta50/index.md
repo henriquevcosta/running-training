@@ -1,4 +1,7 @@
-
+---
+title: UTA50 2026 Training Plan
+layout: default
+---
 <html>
 <head>
   <meta charset="UTF-8">
